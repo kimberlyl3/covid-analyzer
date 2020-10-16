@@ -11,6 +11,10 @@ Download the COVIDDataAnalyzer.py file and all the datasets from the Data folder
 
 Running the code properly will produce histograms and/or scattergrams depicting the relationship between government policy strictness and R-Value for the states.
 
+![Alaska Histogram](https://github.com/kimberlyl3/covid-analyzer/blob/main/Images/Alaska%20Histogram.png)
+
+![Alaska Scattergram](https://github.com/kimberlyl3/covid-analyzer/blob/main/Images/Alaska%20Scattergram.png)
+
 # Data:
 
 The original R-Value dataset can be found at https://d14wlfuexuxgcm.cloudfront.net/covid/rt.csv on https://rt.live/
