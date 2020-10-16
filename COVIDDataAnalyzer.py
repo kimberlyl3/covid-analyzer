@@ -156,8 +156,6 @@ someBusinesses = 34
 schoolsClosed = 33
 faceCovering = 9
 
-print(endRow)
-
 # Calculating strictness index and graphing scattergrams for each state
 
 for i in range(0, 4): # Range from 0-51 depending on how many state graphs you want to appear (states are in aphabetical order: 0 = AK, 51 = WY)
